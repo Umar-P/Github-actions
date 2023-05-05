@@ -18,4 +18,13 @@ describe("GET /", function () {
                 done();
             });
     });
+    it("should return 200 OK1", function (done) {
+        request
+            .get("/")
+            .expect(400)
+            .end(function (err, res) {
+                if (err) return done(err);
+                done();
+            });
+    });
 });
