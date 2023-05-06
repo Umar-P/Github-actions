@@ -1,5 +1,5 @@
 <!-- <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="To Do Web App served with Node.js and Express.js" />
+  <img src="./.github/app.gif" alt="To Do Web App served with Node.js and Express.js 123" />
 
   &#xa0;
 
